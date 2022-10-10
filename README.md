@@ -1,4 +1,4 @@
-# FFacial Emotions Detection
+# Facial Emotions Detection
 
 It is based on competition organised by kaggle in 2013:-<br>
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard
